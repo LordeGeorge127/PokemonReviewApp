@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pokemon Review App.props" />
+</Project>
